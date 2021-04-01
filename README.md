@@ -1,1 +1,1 @@
-# react-typescript-with-webpack
+# React typescript with webpack

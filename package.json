@@ -1,0 +1,11 @@
+{
+  "name": "react-typescript-with-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": "https://github.com/DipankarHalder/react-typescript-with-webpack.git",
+  "author": "DipankarHalder <dipankar-halder@outlook.com>",
+  "license": "MIT"
+}
